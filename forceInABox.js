@@ -136,7 +136,7 @@ export function forceInABox(alpha) {
       c, i, size,
       clustersCounts,
       clustersLinks,
-      sourc, target;
+      source, target;
 
     clustersCounts = computeClustersNodeCounts(nodes);
     clustersLinks = computeClustersLinkCounts(links);
