@@ -1,6 +1,6 @@
 {
   "name": "forceInABox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "forceInABox.js a d3 force for distribution nodes using the group-in-a-box algorithm",
   "author": "",
   "main": "forceInABox.js",
